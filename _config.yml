@@ -80,13 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : ｜
-                  <p style="color: blue"> 
-                        "Cong Li" 
-                  </p>
+  name             : "Cong Li" 
   avatar           : "profile.png"
   bio              : "Reseaching Assistant Professor" #"Your biography for the left-hand sidebar"
-  location         : "Southern University of Science and Technology" #"Location"
+  location         : "China" #"Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s6jCwD8AAAAJ&hl=en"
