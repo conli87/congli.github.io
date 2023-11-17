@@ -80,7 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "   Cong Li  "
+  name             : ｜
+                  <p style="color: blue"> 
+                        "Cong Li" 
+                  </p>
   avatar           : "profile.png"
   bio              : "Reseaching Assistant Professor" #"Your biography for the left-hand sidebar"
   location         : "Southern University of Science and Technology" #"Location"
