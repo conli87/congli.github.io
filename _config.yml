@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Cong Li" #"Your Name / Site Title"
+title                    : #" Cong Li" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Cong Li"
 description              : &description "personal description"
