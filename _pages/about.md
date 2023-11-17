@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<center>I am a seismologist with a keen interest in understanding of the Earth’s dynamics by imaging the structures of the crust and mantle lithosphere using multiple seismic waves. Throughout my Ph.D. and postdoctoral research, I primarily focus on the formation and evolution of the continental lithosphere in eastern North America and the southeastern Tibet Plateau. The specific questions I aimed to address in those studies include how past tectonic events, such as continent-continent/ocean convergence, orogenic collapse, continental rifting, and magmatism, modified the structures of lithosphere; What the major composition of lower continental crust is, and how they varied over geological time; To what degree geological observations at surface correlates with seismological-defined lithospheric structures at depth.
+<div style="text-align: justify"> I am a seismologist with a keen interest in understanding of the Earth’s dynamics by imaging the structures of the crust and mantle lithosphere using multiple seismic waves. Throughout my Ph.D. and postdoctoral research, I primarily focus on the formation and evolution of the continental lithosphere in eastern North America and the southeastern Tibet Plateau. The specific questions I aimed to address in those studies include how past tectonic events, such as continent-continent/ocean convergence, orogenic collapse, continental rifting, and magmatism, modified the structures of lithosphere; What the major composition of lower continental crust is, and how they varied over geological time; To what degree geological observations at surface correlates with seismological-defined lithospheric structures at depth.
 
-The seismological methods I employ in practice include teleseismic receiver function imaging and harmonic decomposition analysis, multi-modal surface-wave dispersion curve inversion, and full-waveform ambient noise and body waves tomography. </center>
+The seismological methods I employ in practice include teleseismic receiver function imaging and harmonic decomposition analysis, multi-modal surface-wave dispersion curve inversion, and full-waveform ambient noise and body waves tomography. </div>
 
 Research
 ------
